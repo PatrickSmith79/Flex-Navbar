@@ -1,0 +1,28 @@
+
+.nav {
+    display: flex;
+    background-color: #333333;
+    color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1{
+    margin: 30px;
+}
+
+.nav-links {
+    width: 25%;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin: 30px;
+    justify-content: space-around;
+}
+.btn {
+    background-color: #17a2b8;
+    color: #ffffff;
+}
+a{
+    color:#ffffff;
+}
